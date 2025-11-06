@@ -82,6 +82,7 @@ Using a **Launch Template**, a **custom AMI**, and a **Target Group**, this setu
 ## 📁 Folder Structure
 
 AUTO-SCALING-WITH-LOAD-BALANCER/
+
 │
 ├── images/ # Screenshots of setup & results
 └── README.md # Project documentation
