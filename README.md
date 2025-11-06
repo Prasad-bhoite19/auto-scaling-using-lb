@@ -104,7 +104,6 @@ Copy code
 
 ## 🖼️ Example Architecture Diagram
 
-vbnet
 Copy code
        ┌──────────────────────────────┐
        │     Application Load Balancer │
