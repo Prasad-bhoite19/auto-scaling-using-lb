@@ -79,7 +79,6 @@ Using a **Launch Template**, a **custom AMI**, and a **Target Group**, this setu
 4. When traffic decreases, instances terminate automatically.
 
 ---
-
 ## 📁 Folder Structure
 
 AUTO-SCALING-WITH-LOAD-BALANCER/
