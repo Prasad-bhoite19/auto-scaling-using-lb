@@ -161,9 +161,9 @@ AUTO-SCALING-WITH-LOAD-BALANCER/
 
 ## 💡 Tips :-
 
--Tag resources for easier identification
--Test scale-out/in manually using traffic tools
--Monitor using CloudWatch metrics
+- Tag resources for easier identification
+- Test scale-out/in manually using traffic tools
+- Monitor using CloudWatch metrics
 
 ---
 
